@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Accounts.Facebook.RanneetiMedia/static/css/main.c11c3008.css",
+    "main.js": "/Accounts.Facebook.RanneetiMedia/static/js/main.9859a12c.js",
+    "static/js/787.880ee333.chunk.js": "/Accounts.Facebook.RanneetiMedia/static/js/787.880ee333.chunk.js",
+    "static/media/profile_black.png": "/Accounts.Facebook.RanneetiMedia/static/media/profile_black.7e006fc2f8d6f24db987.png",
+    "static/media/data.xlsx": "/Accounts.Facebook.RanneetiMedia/static/media/data.a1d92284c837adf82339.xlsx",
+    "index.html": "/Accounts.Facebook.RanneetiMedia/index.html",
+    "main.c11c3008.css.map": "/Accounts.Facebook.RanneetiMedia/static/css/main.c11c3008.css.map",
+    "main.9859a12c.js.map": "/Accounts.Facebook.RanneetiMedia/static/js/main.9859a12c.js.map",
+    "787.880ee333.chunk.js.map": "/Accounts.Facebook.RanneetiMedia/static/js/787.880ee333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c11c3008.css",
+    "static/js/main.9859a12c.js"
+  ]
+}
